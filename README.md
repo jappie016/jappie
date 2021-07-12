@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>readme.md</title>
+  
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -37,7 +37,7 @@ There’s a long way to go</p>
 <li><a href="https://t.me/jappie007">Telegram</a></li>
 <li><a href="https://github.com/jappie016">Github</a></li>
 <li><a href="https://www.instagram.com/j.sambhi">Instagram</a></li>
-<li><a href="ajsambhis@gmail.com">Email</a></li>
+<li><a href="mailto: ajsambhis@gmail.com">Email</a></li>
 </ul>
 </div>
 </body>
