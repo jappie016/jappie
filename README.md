@@ -31,14 +31,6 @@ There’s a long way to go</p>
 <li>Intermediate knowledge of HTML and CSS</li>
 <li>Beginner knowledge of C programming language</li>
 </ul>
-<h2 id="contact-me">Contact me</h2>
-<ul>
-<li><a href="https://www.blogger.com/profile/16867808739344278102">Blogger profile</a></li>
-<li><a href="https://t.me/jappie007">Telegram</a></li>
-<li><a href="https://github.com/jappie016">Github</a></li>
-<li><a href="https://www.instagram.com/j.sambhi">Instagram</a></li>
-<li><a href="mailto: ajsambhis@gmail.com">Email</a></li>
-</ul>
 </div>
 </body>
 
